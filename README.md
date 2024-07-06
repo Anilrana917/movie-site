@@ -1,4 +1,6 @@
 # movieflex
+This project is also hosted/live on below url:
+https://moviesflex99-c6fd9.web.app/
 
 ## Project setup
 ```
