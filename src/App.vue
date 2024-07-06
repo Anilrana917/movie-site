@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header class="app-header">
-      <h1>MovieAdda</h1>
+      <h1>MoviesFlix</h1>
       <div class="search-box">
         <input
           type="text"
