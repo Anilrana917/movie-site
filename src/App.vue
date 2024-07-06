@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header class="app-header">
-      <h1>MoviesFlex</h1>
+      <h1>MoviesFlexx</h1>
       <div class="search-box">
         <input
           type="text"
